@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "bookId": 1,
+    "userId": 2,
+    "rating": 5,
+    "comment": "Tres utile et facile a appliquer."
+  },
+  {
+    "id": 2,
+    "bookId": 3,
+    "userId": 1,
+    "rating": 4,
+    "comment": "Univers riche, un peu dense au debut."
+  },
+  {
+    "id": 3,
+    "bookId": 2,
+    "userId": 4,
+    "rating": 5,
+    "comment": "Un classique pour les developpeurs."
+  }
+]

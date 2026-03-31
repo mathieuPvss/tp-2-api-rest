@@ -1,0 +1,13 @@
+{
+  "name": "tp-2-api-rest",
+  "version": "1.0.0",
+  "description": "API REST simple pour un reseau social de livres",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
